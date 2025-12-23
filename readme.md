@@ -35,15 +35,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadNafeezKh&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNafeezKh&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=MuhammadNafeezKh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
