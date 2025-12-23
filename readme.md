@@ -1,11 +1,12 @@
+# 😎 Halo, Saya Ammar Bassam Setiawan
+---
+
 ### 🌐 Socials:
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amrs0_9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ammarsetiawan970@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6282113051867)
 
-# 😎 Halo, Saya Ammar Bassam Setiawan
----
 
 ### 🖥 My Skills:
 
