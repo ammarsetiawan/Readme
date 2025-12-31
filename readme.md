@@ -6,7 +6,7 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 
 ### 🌐 Hubungi Saya:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6282113051867)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ammarsetiawannn_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amrs0_9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarsetiawan@example.com)
 
 ---
