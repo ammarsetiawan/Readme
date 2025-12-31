@@ -9,7 +9,9 @@
 
 ### 🖥 My Skills:
 
-**Programming & Frameworks**
+![vscode](https://raw.githubusercontent.com/atisawd/boxicons/9ffa9136e8681886bb7bd2145cd4098717ce1c11/svg/logos/bxl-visual-studio.svg)
+
+Programming & Frameworks
 ---
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +40,5 @@
 </p>
 
 ---
-<a href="http://www.w3.org/html/logo/">
-<img src="http://www.w3.org/html/logo/badge/html5-badge-v-connectivity-css3-device-graphics-multimedia-performance-semantics-storage.png" width="38" height="330" alt="HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, Graphics, 3D &amp; Effects, Multimedia, Performance &amp; Integration, Semantics, and Offline &amp; Storage" title="HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, Graphics, 3D &amp; Effects, Multimedia, Performance &amp; Integration, Semantics, and Offline &amp; Storage">
-</a>
+
 
