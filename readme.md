@@ -35,7 +35,7 @@
 ### 📊 frequently used language:
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&layout=compact&theme=dark&hide_border=true" />
+  <img width="40%" src="https://assets.cdn.dicoding.com/original/commons/certificate_logo.png" />
 </p>
 
 ---
