@@ -35,7 +35,7 @@
 ### 📊 frequently used language:
 
 <p align="center">
-  <img width="40%" src="https://assets.cdn.dicoding.com/original/commons/certificate_logo.png" />
+  <img width="40%" position="relative" left="90px" src="https://assets.cdn.dicoding.com/original/commons/certificate_logo.png" />
 </p>
 
 ---
