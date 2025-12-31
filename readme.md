@@ -33,9 +33,13 @@ Programming & Frameworks
 ### 📊 community to follow
 
 <p align="center">
-  <img width="20%" display='grid'  src="https://assets.cdn.dicoding.com/original/commons/certificate_logo.png" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadNafeezKh&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNafeezKh&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNafeezKh&layout=compact&theme=dark&hide_border=true" />
+</p>
 ---
 
 
