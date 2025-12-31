@@ -8,9 +8,6 @@
 
 
 ### 🖥 My Skills:
-
-![vscode](https://raw.githubusercontent.com/atisawd/boxicons/9ffa9136e8681886bb7bd2145cd4098717ce1c11/svg/logos/bxl-visual-studio.svg)
-
 Programming & Frameworks
 ---
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
