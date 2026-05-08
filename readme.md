@@ -49,6 +49,8 @@ Saya adalah seorang pengembang web yang tertarik pada solusi teknologi cerdas, s
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0070B8?style=for-the-badge&logo=cisco&logoColor=white)
+![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
 
 **🖌️Design & Editor Tools**
 -
